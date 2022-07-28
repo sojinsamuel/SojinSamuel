@@ -6,7 +6,7 @@
 <p align="left">
   <ul>
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
-<li> I Weekly write articles on [https://sojinsamuel.medium.com](https://sojinsamuel.medium.com) </li>
+<li> I Weekly write articles on https://sojinsamuel.medium.com </li>
 <li> How to reach me <strong>sojinsamuel2001@gmail.com</strong></li>
 </ul>
 

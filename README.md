@@ -5,9 +5,9 @@
 <p align="left"><a href="https://twitter.com/SamuelSojin" target="blank"><img src="https://img.shields.io/twitter/follow/SamuelSojin?logo=twitter&style=for-the-badge" alt="sojin" /></a></p>
 <p align="left">
   <ul>
-<li> 🌱 I’m currently learning **JavaScript and Git** </li>
+<li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
 <li> I Weekly write articles on [https://sojinsamuel.medium.com](https://sojinsamuel.medium.com) </li>
-<li> How to reach me **sojinsamuel2001@gmail.com**</li>
+<li> How to reach me <strong>sojinsamuel2001@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>

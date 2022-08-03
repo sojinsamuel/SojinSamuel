@@ -7,6 +7,7 @@
   <ul>
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
 <li> 💬 Ask me about SEO </li>
+<li> Looking for New Job Opportunities :angel: </li>
 <li> ⚡ Quote: PullUps, Keyboard Breaker, & Movies! :heart:</li>
 </ul>
 

@@ -8,16 +8,11 @@
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
 <li> 💬 Ask me about SEO </li>
 <li> Looking for New Job Opportunities :angel: </li>
+<li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
 <li> ⚡ Quote: PullUps, Keyboard Breaker, & Movies! :heart:</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sojinsamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sojin" height="30" width="40" /></a>
-<a href="https://twitter.com/SamuelSojin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sojin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sojin-samuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sojin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19531711/sojin-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sojin" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,6 +21,8 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
  
+---
+
  <h3>
   <summary>
     📈  &nbsp; My GitHub Stats

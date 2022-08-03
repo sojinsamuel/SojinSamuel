@@ -6,8 +6,8 @@
 <p align="left">
   <ul>
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
-<li> I Weekly write articles on https://sojinsamuel.medium.com </li>
-<li> How to reach me <strong>sojinsamuel2001@gmail.com</strong></li>
+<li> 💬 Ask me about SEO </li>
+<li> ⚡ Quote: PullUps, Keyboard Breaker, & Movies! :heart:</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -24,8 +24,24 @@
 <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
+ 
+ <h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
   
- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
+</h3>
+  <br>
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=SojinSamuel&show_icons=true&locale=en" alt="sojin" />
+  <!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SojinSamuel&show_icons=true&count_private=true&hide_border=true&title_color=FA9400&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="SojinSamuel" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SojinSamuel&layout=compact&hide_border=true&title_color=000000&text_color=FA9400&bg_color=0d1117" />
+</div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SojinSamuel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>
+  
+<div align="center">  
+<p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
+</div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
+

@@ -38,6 +38,9 @@
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SojinSamuel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>
   
+<div align="center">
+<a href="https://github.com/SojinSamuel/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SojinSamuel&bg_color=0D1117&color=FA9400&line=00FF00&point=FFFFFF&hide_border=true" /></a></div>
+
 <div align="center">  
 <p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
 </div>  

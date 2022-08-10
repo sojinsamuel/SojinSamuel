@@ -8,7 +8,7 @@
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
 <li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
 <li> Looking for New Job Opportunities :angel: </li>
-<li> 💬 You can ask me about Search Engine Optmization </li>
+<li> 💬 You can ask me about Search Engine Optimization </li>
 <li> ⚡ Quote: PullUps, Coding, & K-dramas! :heart:</li>
 </ul>
 

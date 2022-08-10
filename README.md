@@ -6,15 +6,15 @@
 <p align="left">
   <ul>
 <li> 🌱 I’m currently learning <strong>JavaScript and Git</strong> </li>
-<li> 💬 Ask me about SEO </li>
-<li> Looking for New Job Opportunities :angel: </li>
 <li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
-<li> ⚡ Quote: PullUps, Keyboard Breaker, & Movies! :heart:</li>
+<li> Looking for New Job Opportunities :angel: </li>
+<li> 💬 You can ask me about Search Engine Optmization </li>
+<li> ⚡ Quote: PullUps, Coding, & K-dramas! :heart:</li>
 </ul>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
 <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/>
 <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>

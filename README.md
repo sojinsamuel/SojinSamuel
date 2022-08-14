@@ -5,7 +5,7 @@
 <p align="left"><a href="https://twitter.com/SamuelSojin" target="blank"><img src="https://img.shields.io/twitter/follow/SamuelSojin?logo=twitter&style=for-the-badge" alt="sojin" /></a></p>
 <p align="left">
   <ul>
-<li> 🌱 I’m currently learning Oop with<strong>JavaScript and Git</strong> </li>
+<li> 🌱 I’m currently learning <strong>Oop in JavaScript, and Git</strong> </li>
 <li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
 <li> Looking for New Job Opportunities :angel: </li>
 <li> 💬 You can ask me about Search Engine Optimization </li>

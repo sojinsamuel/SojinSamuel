@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> </p>
 <p align="left"><a href="https://twitter.com/SamuelSojin" target="blank"><img src="https://img.shields.io/twitter/follow/SamuelSojin?logo=twitter&style=for-the-badge" alt="sojin" /></a></p>
+  :heart: Write | :black_heart: Roam | :blue_heart: Drink
+
 <p align="left">
   <ul>
 <li> 🌱 I’m currently learning <strong>React</strong> </li>
 <li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
 <li> Looking for New Job Opportunities :angel: </li>
 <li> 💬 You can ask me about Search Engine Optimization and Web Accesibility </li>
-<li> ⚡ Quote: PullUps, Coding, & K-dramas! :heart:</li>
+<li> ⚡ Quote: Growing, expanding knowledge, making progress! :heart:</li>
 </ul>
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sojin</h1>
-<h3 align="center">I am a Front End Developer.</h3>
+<h3 align="center">I am a React Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> </p>
 <p align="left"><a href="https://twitter.com/SamuelSojin" target="blank"><img src="https://img.shields.io/twitter/follow/SamuelSojin?logo=twitter&style=for-the-badge" alt="sojin" /></a></p>
@@ -34,7 +34,11 @@
 
   <!-- ./STAT -->
 <div align="center">  
+  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SojinSamuel&show_icons=true&count_private=true&hide_border=true&title_color=FA9400&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Sojin Samuel" /> 
+  
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojinsamuel&layout=compact&hide_border=true&title_color=FA9400&text_color=c9d1d9&bg_color=0d1117" alt="Sojin samuel" />
+
   
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SojinSamuel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>

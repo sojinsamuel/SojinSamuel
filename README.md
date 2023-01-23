@@ -51,6 +51,9 @@
   
 <div align="center">
 <a href="https://github.com/SojinSamuel/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SojinSamuel&bg_color=0D1117&color=FA9400&line=00FF00&point=FFFFFF&hide_border=true" /></a></div>
+    
+[![@sojinsamuel's Holopin board](https://holopin.io/api/user/board?user=sojinsamuel)](https://holopin.io/@sojinsamuel)
+
 
 <div align="center">  
 <p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>

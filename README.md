@@ -3,8 +3,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />
   </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> 
+</p>
 <p align="left"><a href="https://twitter.com/SamuelSojin" target="blank"><img src="https://img.shields.io/twitter/follow/SamuelSojin?logo=twitter&style=for-the-badge" alt="sojin" /></a></p>
+
   :heart: Write | :black_heart: Roam | :blue_heart: Drink
 
 <p align="left">
@@ -62,6 +64,9 @@
 
 <div align="center">  
 <p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
+  <a href= "mailto:sojinsamuel2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
 

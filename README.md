@@ -55,10 +55,9 @@
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SojinSamuel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>
   
 <div align="center">
-  <a href="https://github.com/sojinsamuel">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sojinsamuel&bg_color=0D1117&color=FA9400&line=00FF00&point=FFFFFF&hide_border=true" />
-</a>
-
+  <a>
+  <img alt="Activity Graph" height="295rem" src="https://github-readme-activity-graph.cyclic.app/graph?username=sojinsamuel&&bg_color=0D1117&color=FA9400&line=00FF00&point=FFFFFF&hide_border=true" />
+ </a>
 </div>
 
 <div align="center">  

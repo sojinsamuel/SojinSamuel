@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sojin</h1>
 <h3 align="center">I am a React Developer.</h3>
 <p align="center">
-<img src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />
+<img height="300" src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> 
 </p>

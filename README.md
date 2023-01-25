@@ -58,15 +58,43 @@
   
 <div align="center">
   <a>
-  <img alt="Activity Graph" height="295rem" src="https://github-readme-activity-graph.cyclic.app/graph?username=sojinsamuel&&bg_color=0D1117&color=FA9400&line=00FF00&point=FFFFFF&hide_border=true" />
+  <img alt="Activity Graph" height="295rem" src="https://github-readme-activity-graph.cyclic.app/graph?username=sojinsamuel&&bg_color=0D1117&color=FA9400&line=FFFFFF&point=FA9400&hide_border=true" />
  </a>
 </div>
+  <br/>
+  <br/>
 
+ <table><tr><td valign="top" width="50%">
+
+##  :book: My Great Reads    
+ 
+- [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-using-separate-stylesheets)
+- [JavaScript Visualized: Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
+- [Avoiding &lt;img&gt; layout shifts: aspect-ratio vs width & height attributes](https://jakearchibald.com/2022/img-aspect-ratio/)
+- [How I got in to Amazon, Microsoft, Google. All from studying these resources
+](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
+- [15 Paradoxes From Mark Manson](https://docs.google.com/document/d/1pvyHS2U-SUAoLRvu6qVECuozwRPNAFckWBx3VWPFI_g/edit?usp=sharing)
+ 
+</td><td valign="top" width="50%">
+
+## :writing_hand:  My Recent Articles     
+- [Building a Twitter bot with Node.js and OpenAI
+](https://dev.to/sojinsamuel/building-a-twitter-bot-with-nodejs-and-openai-2poa)
+- [The Last How to Guide on Closures (I mean it 2022 JavaScript Noob)](https://www.showwcase.com/show/18288/the-last-how-to-guide-on-closures-i-mean-it-2022-javascript-noob)
+- [Pseudo-elements: How much Importance Do they have in the CSS world?
+](https://www.showwcase.com/show/18310/pseudo-elements-how-much-importance-do-they-have-in-the-css-world)
+- [10 SEO Guidelines For web developers Before the verge of 2023 (I mean it)
+](https://sojinsamuel.hashnode.dev/10-seo-guidelines-for-web-developers-before-the-verge-of-2023-i-mean-it)
+
+</td></tr></table>
+    <br/>
 <div align="center">  
-<p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
-  <a href= "mailto:sojinsamuel2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href= "mailto:sojinsamuel2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"  />
 </a>
+  <br/>
+  <br/>
+<p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
 </div>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
 

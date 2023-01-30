@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sojin</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Sojin</h1>
 <h3 align="center">I am a React Developer.</h3>
 <p align="center">
 <img height="300" src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />

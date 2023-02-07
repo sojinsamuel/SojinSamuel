@@ -57,13 +57,7 @@
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SojinSamuel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>
   
-<div align="center">
-  <a>
-  <img alt="Activity Graph" height="295rem" src="https://github-readme-activity-graph.cyclic.app/graph?username=sojinsamuel&&bg_color=0D1117&color=FA9400&line=FFFFFF&point=FA9400&hide_border=true" />
- </a>
-</div>
-  <br/>
-  <br/>
+
 
  <table><tr><td valign="top" width="50%">
 

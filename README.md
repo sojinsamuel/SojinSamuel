@@ -1,8 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Sojin</h1>
 <h3 align="center">I am a React Developer.</h3>
-<div align="center"><a href= "mailto:sojinsamuel2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"  />
-</a></div> <br/>
+<div align="center">
+  <a href= "mailto:sojinsamuel2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"  />
+</a></div>
+<br/>
+<p align="center">
+  <a href="https://drive.google.com/file/d/18HmQniQdwUQ695bktnrN2ntqD4ira-Gy/view" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Resume-green?style=for-the-badge&logo=google-drive" height="40" alt="My Resume">
+  </a>
+</p>
 <p align="center">
 <img height="300" src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />
   </p>

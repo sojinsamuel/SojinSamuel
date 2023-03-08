@@ -21,8 +21,8 @@
 
 <p align="left">
   <ul>
-<li> 🌱 I’m currently learning <strong>React</strong> </li>
-<li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="blank">Linkedin</a></li>
+    <li> 🌱 I’m currently learning <strong><a href="https://qwik.builder.io/docs/overview/" target="_blank">Qwik</a></strong> </li>
+<li> Connect with me on <a href="https://www.linkedin.com/in/sojin-samuel/" target="_blank">Linkedin</a></li>
 <li> Looking for New Job Opportunities :angel: </li>
 <li> 💬 You can ask me about Search Engine Optimization and Web Accesibility </li>
 <li> ⚡ Quote: Growing, expanding knowledge, making progress! :heart:</li>

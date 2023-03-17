@@ -82,7 +82,8 @@
  
 </td><td valign="top" width="50%">
 
-## :writing_hand:  My Recent Articles     
+## :writing_hand:  My Recent Articles    
+- [Defining Javascript Variables: Why You Should Ditch Var for Let and Const](https://hackernoon.com/defining-javascript-variables-why-you-should-ditch-var-for-let-and-const)
 - [Building a Twitter bot with Node.js and OpenAI
 ](https://dev.to/sojinsamuel/building-a-twitter-bot-with-nodejs-and-openai-2poa)
 - [The Last How to Guide on Closures (I mean it 2022 JavaScript Noob)](https://www.showwcase.com/show/18288/the-last-how-to-guide-on-closures-i-mean-it-2022-javascript-noob)

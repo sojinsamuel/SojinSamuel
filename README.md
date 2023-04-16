@@ -28,7 +28,7 @@
 <li> ⚡ Quote: Growing, expanding knowledge, making progress! :heart:</li>
 </ul>
 
----
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -43,7 +43,8 @@
 </p>
 
  
----
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
     
 [![@sojinsamuel's Holopin board](https://holopin.io/api/user/board?user=sojinsamuel)](https://holopin.io/@sojinsamuel)
 
@@ -99,8 +100,14 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"  />
 </a>
   <br/>
-  <br/>
-<p><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
 </div>  
+    <br/>
+    <p align="center">
+  <a href="https://twitter.com/SamuelSojin"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
+  <a href="https://www.linkedin.com/in/sojin-samuel/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+  <a href="mailto:sojinsamuel2001@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
+</p>
+    <br/>
+<p align="center"><a href="https://www.buymeacoffee.com/sojinsamuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sojinsamuel" /></a></p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
 

@@ -95,13 +95,6 @@
 
 </td></tr></table>
     <br/>
-<div align="center">  
-    <a href= "mailto:sojinsamuel2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"  />
-</a>
-  <br/>
-</div>  
-    <br/>
     <p align="center">
   <a href="https://twitter.com/SamuelSojin"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
   <a href="https://www.linkedin.com/in/sojin-samuel/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>

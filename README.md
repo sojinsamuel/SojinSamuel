@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-<img height="300" src="https://media.giphy.com/media/xv7e0oOYUHz6309mjP/giphy.gif" alt="sojin" />
+<img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc5NDk2ZnAwM2lkeHZuaTlteWlqMG1jaGtsYndtZGJoMmpmNXB4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif" alt="sojin" />
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SojinSamuel&label=Profile%20views&color=0e75b6&style=flat" alt="sojin" /> 
 </p>
